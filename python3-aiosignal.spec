@@ -8,7 +8,7 @@ Summary:	A list of registered asynchronous callbacks
 Summary(pl.UTF-8):	Lista zarejestrowanych asynchronicznych wywołań zwrotnych
 Name:		python3-%{module}
 Version:	1.2.0
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/a/aiosignal/%{module}-%{version}.tar.gz
